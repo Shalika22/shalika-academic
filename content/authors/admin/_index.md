@@ -10,12 +10,12 @@ last_name: Kumbham
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Application Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Oracle, India
-    url: https://www.stanford.edu/
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics and computer vision.
@@ -43,7 +43,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Shalika22
     label: Follow me on Twitter
     display:
       header: true
@@ -52,7 +52,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Shalika22
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -71,8 +71,6 @@ email: 'shalika1022@gmail.com'
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shalika Kumbham is an Application Developer in Oracle, India. She graduated from IIT Kharagpur, in 2022.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
