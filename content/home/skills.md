@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
+    icon: java
     icon_pack: fab
     name: Java
   - description: 70%
@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Image Processing
   - description: 50%
-    icon:"ballerina-silhouette-svg-19"
+    icon: "ballerina-silhouette-svg-19"
     icon_pack: "custom"
     name: Dance
 # Uncomment to use emoji icons.
