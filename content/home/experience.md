@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Machine Learning Intern
+    company: Felix Health Care
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2016-06-01'
+    date_end: '2020-08-31'
+    description: Worked on Forgery detection
 
 design:
   columns: '2'
