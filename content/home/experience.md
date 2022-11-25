@@ -40,10 +40,10 @@ experience:
     company: Felix Health Care
     company_url: ''
     company_logo: big_logo
-    location: California
-    date_start: '2016-06-01'
+    location: Bengaluru, India
+    date_start: '2020-06-01'
     date_end: '2020-08-31'
-    description: Worked on Forgery detection
+    description: Worked on Forgery detection in Images using Machine Learning
 
 design:
   columns: '2'
