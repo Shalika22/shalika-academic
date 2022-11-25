@@ -39,7 +39,7 @@ experience:
   - title: Machine Learning Intern
     company: Felix Health Care
     company_url: ''
-    company_logo: org-x
+    company_logo: big_logo
     location: California
     date_start: '2016-06-01'
     date_end: '2020-08-31'
