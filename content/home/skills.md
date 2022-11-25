@@ -25,8 +25,8 @@ feature:
     icon_pack: fas
     name: Image Processing
   - description: 50%
-    icon: camera-retro
-    icon_pack: fas
+    icon:"ballerina-silhouette-svg-19"
+    icon_pack: "custom"
     name: Dance
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
