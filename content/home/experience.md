@@ -25,7 +25,7 @@ experience:
   - title: Application Developer
     company: Oracle 
     company_url: ''
-    company_logo: org-gc
+    company_logo: oracle-logo-icon_168918
     location: Hyderabad, India
     date_start: '2022-07-21'
     date_end: ''
