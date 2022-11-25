@@ -21,12 +21,12 @@ feature:
     icon_pack: fab
     name: Java
   - description: 70%
-    icon: chart-line
+    icon: image
     icon_pack: fas
     name: Image Processing
   - description: 50%
-    icon: "ballerina-silhouette-svg-19"
-    icon_pack: "custom"
+    icon: music
+    icon_pack: fas
     name: Dance
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
