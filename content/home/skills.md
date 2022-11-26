@@ -32,6 +32,10 @@ feature:
     icon: c
     icon_pack: fab
     name: C/C++
+  - description: 90%
+    icon: python
+    icon_pack: fab
+    name: Python 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
