@@ -29,8 +29,8 @@ feature:
     icon_pack: fas
     name: Dance
   - description: 90%
-    icon: fab
-    icon_pack: c
+    icon: c
+    icon_pack: fab
     name: C/C++
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
