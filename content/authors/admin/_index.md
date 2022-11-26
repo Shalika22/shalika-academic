@@ -41,15 +41,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+<!--   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Shalika22
     label: Follow me on Twitter
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+      header: true -->
+<!--   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
   - icon: github
     icon_pack: fab
     link: https://github.com/Shalika22
@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-  - link: uploads/resume.pdf
+  - link: uploads/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'shalika1022@gmail.com'
