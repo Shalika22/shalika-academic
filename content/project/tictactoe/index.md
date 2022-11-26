@@ -29,3 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+• Created a web application as a part of the Microsoft virtual mentorship program - Engage 2020
+
+• Designed the application to have either a computer (with varied difficulty levels) or a user as an opponent 
+
+• Implemented Minimax Algorithm to find the optimal move for the computer depending on difficulty level
