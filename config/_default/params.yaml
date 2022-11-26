@@ -112,3 +112,10 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+############################
+## Icon Pack Extensions
+############################
+icon_pack:
+  ai: true  # Academicons icon pack https://jpswalsh.github.io/academicons/
