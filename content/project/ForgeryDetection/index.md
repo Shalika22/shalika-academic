@@ -12,11 +12,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,3 +24,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+• Conducted a literature review of Deep Learning models’ results to detect forgeries in images
+• Acquired knowledge about Convolutions and Recurring Neural Network concepts in Deep Learning
+• Implemented CNN on images to extract features to help identify any of the 385 types of manipulations considered 
+• Implemented LSTM on Z score features that are processed from the extracted features to detect local anomalies
