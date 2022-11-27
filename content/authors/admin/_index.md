@@ -43,7 +43,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Shalika22
+    link: https://twitter.com/Shalika_22
     label: Follow me on Twitter
     display:
       header: true -->
