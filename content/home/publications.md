@@ -17,9 +17,9 @@ content:
   filters:
     folders:
       - publication
-    tag: ''
+    tag: 'image processing'
     category: ''
-    publication_type: ''
+    publication_type: 'Preprint'
     author: ''
     exclude_featured: false
     exclude_future: false
