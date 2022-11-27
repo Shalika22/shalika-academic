@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-  - link: uploads/demo_resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#  - link: uploads/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'shalika1022@gmail.com'
@@ -73,4 +73,4 @@ highlight_name: true
 
 Shalika Kumbham is an Application Developer in Oracle, India. She graduated from IIT Kharagpur, in 2022.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
