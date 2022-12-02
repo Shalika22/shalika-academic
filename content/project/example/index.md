@@ -17,18 +17,18 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 • Surveyed relevant literature work for improving the existing accuracies for indexing of metadata
+
 • Developed an indexing system using Fuzzywuzzy and Spacy NER model
+
 • Experimented with Tesseract OCR and Easy OCR with combination of four different keyframe detection methods
+
 • Extracted data using YouTube-dl and FFmpeg from relevant educational video lectures (NPTEL, MIT OCW) 
+
 • Applied EasyOCR to locate text in videos on the keyframes that are extracted using OpenCV library ffprobe 
+
 • Created an indexing system by extracting relevant meta data and filtering out the rest using defined rules.
+
 • Evaluated the performance of indexing system using levenshtein distance algorithm
 
