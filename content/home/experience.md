@@ -29,7 +29,7 @@ experience:
     location: Hyderabad, India
     date_start: '2022-07-21'
     date_end: ''
-    description: Part of Compensation Team under Human Capital Management which works in helping clients with their finances
+    description: Part of compensation team under Human Capital Management, which works in developing applications to manage finances of companies
 
   - title: Machine Learning Intern
     company: Felix Health Care
