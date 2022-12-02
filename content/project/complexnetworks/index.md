@@ -17,12 +17,6 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 • Created a citation network as there were no pre-evaluated legal document clusters and networks previously
 • Clustered the legal documents, to serve as gold standard, based on subject or category it falls under
