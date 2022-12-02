@@ -71,6 +71,5 @@ email: 'shalika1022@gmail.com'
 highlight_name: true
 ---
 
-Shalika Kumbham is an Application Developer in Oracle, India. She graduated from IIT Kharagpur, in 2022.
-
+Hi! I am Shalika Kumbham. I am an Application Developer at Oracle, India. I graduated from IIT Kharagpur in 2022. My interests lie in the applications of Computer Vision.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
