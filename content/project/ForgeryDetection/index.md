@@ -25,6 +25,9 @@ url_video: ''
 slides: example
 ---
 • Conducted a literature review of Deep Learning models’ results to detect forgeries in images
+
 • Acquired knowledge about Convolutions and Recurring Neural Network concepts in Deep Learning
+
 • Implemented CNN on images to extract features to help identify any of the 385 types of manipulations considered 
+
 • Implemented LSTM on Z score features that are processed from the extracted features to detect local anomalies
