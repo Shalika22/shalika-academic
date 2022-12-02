@@ -29,12 +29,7 @@ experience:
     location: Hyderabad, India
     date_start: '2022-07-21'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Part of Compensation Team under Human Capital Management which works in helping clients with their finances
 
   - title: Machine Learning Intern
     company: Felix Health Care
