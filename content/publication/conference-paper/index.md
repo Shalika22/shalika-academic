@@ -1,19 +1,16 @@
 ---
-title: 'Decoding Demographic un-fairness
-from Indian Names'
+title: 'Efficient Indexing of Meta-data (from Educational Videos)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vahini Medidoddi
   - admin
-  - Souvic Chakraborty
-  - Animesh Mukherjee
+  - Abhijit Debnath
+  - Krothapalli Sreenivasa Rao
 
 # Author notes (optional)
 # author_notes:
-#  - 'Equal contribution'
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 #  - 'Equal contribution'
@@ -31,8 +28,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Social Informatics, 2022*
-publication_short: In *SocInfo'22*
+publication: Preprint
+publication_short: Preprint
 
 abstract: ''
 
@@ -48,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2209.03089.pdf'
+# url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
