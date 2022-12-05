@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "arXIV"
 publication_short: ""
 
 abstract: 
@@ -60,9 +60,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
