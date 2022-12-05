@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 21
 
 title: Publications
 subtitle: ''
@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - publication
-    tag: 'image processing'
+    tag: 'NLP'
     category: ''
     publication_type: '1'
     author: ''
