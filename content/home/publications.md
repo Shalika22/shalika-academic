@@ -19,7 +19,7 @@ content:
       - publication
     tag: 'image processing'
     category: ''
-    publication_type: "3"
+    publication_type: '3'
     author: ''
     exclude_featured: false
     exclude_future: false
