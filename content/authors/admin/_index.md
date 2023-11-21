@@ -18,13 +18,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics and computer vision.
+bio: My research interests include Computer Vision, Machine Learning, and Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Robotics
-  - Image Processing
+  - Machine Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
