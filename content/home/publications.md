@@ -35,4 +35,3 @@ design:
   view: citation
   columns: '2'
 ---
-
