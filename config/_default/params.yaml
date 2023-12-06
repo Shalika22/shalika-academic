@@ -117,5 +117,5 @@ security:
 ############################
 ## Icon Pack Extensions
 ############################
-icon_pack:
-  ai: false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+#icon_pack:
+ # ai: false  # Academicons icon pack https://jpswalsh.github.io/academicons/
