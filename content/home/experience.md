@@ -29,16 +29,7 @@ experience:
     location: Hyderabad, India
     date_start: '2022-07-21'
     date_end: ''
-    description: Part of compensation team under Human Capital Management, which works in developing applications to manage finances of companies
-
-  - title: Machine Learning Intern
-    company: Felix Health Care
-    company_url: ''
-    company_logo: big_logo
-    location: Bengaluru, India
-    date_start: '2020-06-01'
-    date_end: '2020-08-31'
-    description: Worked on Forgery detection in Images using Machine Learning
+    description: Part of Human Capital Management Team, which works in developing applications to manage the finances of clients.
 
 design:
   columns: '2'
