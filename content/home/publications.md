@@ -17,7 +17,7 @@ content:
   filters:
     folders:
       - publication
-    tag: 'NLP'
+    tag: 'NLP,CV'
     category: ''
     publication_type: '1'
     author: ''
