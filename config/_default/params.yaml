@@ -118,4 +118,4 @@ security:
 ## Icon Pack Extensions
 ############################
 icon_pack:
-  ai: true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai: false  # Academicons icon pack https://jpswalsh.github.io/academicons/
