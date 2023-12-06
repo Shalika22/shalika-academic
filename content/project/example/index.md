@@ -2,7 +2,7 @@
 title: Efficient Indexing of Metadata extracted from educational videos
 summary: Created an indexing system by extracting relevant meta data and filtering out the rest using defined rules.
 tags:
-  - Computer Vision
+  - Computer Vision, NLP
 date: '2022-04-01'
 
 # Optional external URL for project (replaces project detail page).
