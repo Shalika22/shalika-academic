@@ -27,12 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    #- name: Computer Vision
-    #  tag: Computer Vision
-    #- name: Complex Networks
-    #  tag: Complex Networks
-    #- name: Development
-    #  tag: Development
+    - name: NLP / LLM
+      tag: NLP
+    - name: Computer Vision
+      tag: Computer Vision
+    - name: Complex Networks
+      tag: Complex Networks
+    - name: Development
+      tag: Development
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
