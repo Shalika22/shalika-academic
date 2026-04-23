@@ -13,5 +13,5 @@ image:
 url_code: ""
 ---
 
-- Implemented diffusion-based models to generate photorealistic try-on previews for fashion e-commerce.
-- Containerized the pipeline using Docker, orchestrated with Kubernetes, and deployed on AWS.
+- Implemented diffusion-based models to generate photorealistic try-on previews for fashion e-commerce
+- Containerized the pipeline using Docker, orchestrated with Kubernetes, and deployed on AWS
