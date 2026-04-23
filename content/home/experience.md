@@ -29,7 +29,7 @@ experience:
     location: Hyderabad, India
     date_start: '2022-07-12'
     date_end: '2024-08-16'
-    description:
+    description: |2-
     • Engineered features for financial worksheet optimization, improving performance and delivering 500 calculations across 300 columns under 30 ms
     • Led the development of a novel Peer Appreciation application, including designing database models, writing PL/SQL packages, and creating REST APIs to support new functionality
     • Engineered UI pages and reduced page loading times by 50% through REST API optimization, significantly enhancing application performance
@@ -44,7 +44,7 @@ experience:
     location: Bengaluru, India
     date_start: '2020-06-01'
     date_end: '2020-08-31'
-    description:
+    description: |2-
       • Worked on forgery detection in images using machine learning.
 
 design:
