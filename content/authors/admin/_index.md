@@ -45,7 +45,6 @@ education:
     - course: MS in Computer Science
       institution: UNC Chapel Hill
       year: 2025
-  courses:
     - course: Btech in Mechanical Engineering
       institution: IIT Kharagpur
       year: 2022
