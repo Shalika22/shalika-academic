@@ -16,26 +16,55 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: java
-    icon_pack: fab
-    name: Java
-  - description: 70%
-    icon: image
-    icon_pack: fas
-    name: Image Processing
-  - description: 50%
-    icon: music
-    icon_pack: fas
-    name: Dance
-  - description: 90%
-    icon: c
-    icon_pack: fab
-    name: C/C++
-  - description: 90%
+  - name: Python
+    description: Advanced
     icon: python
     icon_pack: fab
-    name: Python 
+
+  - name: Java
+    description: Advanced
+    icon: java
+    icon_pack: fab
+
+  - name: C/C++
+    description: Intermediate
+    icon: c
+    icon_pack: fab
+
+  - name: Machine Learning
+    description: Advanced
+    icon: brain
+    icon_pack: fas
+
+  - name: LLMs & RAG
+    description: Advanced
+    icon: robot
+    icon_pack: fas
+
+  - name: Backend Systems & APIs
+    description: Advanced
+    icon: server
+    icon_pack: fas
+
+  - name: Distributed Systems
+    description: Intermediate
+    icon: network-wired
+    icon_pack: fas
+
+  - name: Computer Vision
+    description: Advanced
+    icon: eye
+    icon_pack: fas
+
+  - name: Databases (SQL/NoSQL)
+    description: Advanced
+    icon: database
+    icon_pack: fas
+
+  - name: Cloud & DevOps
+    description: Intermediate
+    icon: cloud
+    icon_pack: fas
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
