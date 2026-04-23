@@ -37,14 +37,15 @@ experience:
     • Created the Celebrate Comments and Likes REST APIs and developed an algorithm to display relevant posts in the feed
     • Involved in the developing of the merge automation scripts to increase the developers' productivity
 
-  - title: Machine Learning Intern
+ - title: Machine Learning Intern
     company: Felix Solutions AI
     company_url: ''
     company_logo: big_logo
     location: Bengaluru, India
     date_start: '2020-06-01'
     date_end: '2020-08-31'
-    description: Worked on Forgery detection in Images using Machine Learning
+    description: |2-
+      • Worked on forgery detection in images using machine learning.
 
 design:
   columns: '2'
