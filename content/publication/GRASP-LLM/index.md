@@ -1,3 +1,4 @@
+---
 title: 'Guided Relational Analysis Improves Social Intelligence in LLMs – ACL 2026 (Under Review)'
 authors:
   - admin
@@ -18,3 +19,4 @@ abstract: ''
 summary: ''
 
 tags: ['NLP']
+---
