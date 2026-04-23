@@ -10,11 +10,11 @@ last_name: Kumbham
 superuser: true
 
 # Role/position/tagline
-role: Application Developer
+role: Software Engineer | AI Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Oracle, India
+  - name: Ex - Oracle, India
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,14 +22,29 @@ bio: My research interests include Natural Language Processing, Computer Vision,
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Natural Language Processing
+  #- Artificial Intelligence
+  #- Machine Learning
+  #- Natural Language Processing
+  #- Multi-Modal Reasoning
+  #- Large Language Models (LLMs) & Agentic Systems
+  #- Retrieval-Augmented Generation (RAG)
+  #- Multi-Agent AI Systems
+  #- AI Systems & Infrastructure (scalable ML systems)
+  #- Multimodal Learning & Reasoning
+  #- Applied NLP (Reasoning, retrieval)
+  - Distributed Systems & Backend Engineering
+  - Scalable API Design & System Performance
+  - AI Systems (LLMs, RAG)
+  - Applied Machine Learning
+  - Multimodal Learning & Reasoning
   - Computer Vision
-  - Multi-Modal Reasoning
 
 # Education to show in About widget
 education:
+  courses:
+    - course: MS in Computer Science
+      institution: UNC Chapel Hill
+      year: 2025
   courses:
     - course: Btech in Mechanical Engineering
       institution: IIT Kharagpur
@@ -67,11 +82,11 @@ social:
 #  - link: uploads/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'shalika1022@gmail.com'
+email: 'kshalika.work@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi! I am Shalika Kumbham. I am an Application Developer at Oracle, India. I graduated from IIT Kharagpur in 2022. My interests lie in the applications of NLP, Computer Vision, ML& AI.
+Hi! I’m Shalika Kumbham, an MS CS student at UNC Chapel Hill and former Software Development Engineer at Oracle. I build scalable backend systems and AI-powered applications, with experience spanning low-latency APIs, distributed systems, and LLM-based architectures. My work includes production systems handling millions of transactions as well as applied AI projects like RAG pipelines, LLM reasoning, and multi-agent LLM environments. I’m interested in building reliable, high-performance systems at the intersection of software engineering and AI.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
