@@ -1,4 +1,21 @@
 ---
+widget: blank
+headless: true
+weight: 30
+
+title: Skills
+subtitle:
+content:
+  text: |
+    **Languages** — Python, Java, C/C++, JavaScript, TypeScript  
+    **ML & AI** — Machine Learning, LLMs, RAG, Computer Vision  
+    **Frameworks & Libraries** — PyTorch, Scikit-learn, OpenCV  
+    **LLM Tooling** — LangChain, LangGraph, vLLM  
+    **Backend & APIs** — FastAPI, Flask, Node.js, REST APIs  
+    **Databases & Storage** — MySQL, PostgreSQL, OracleDB, Redis  
+    **Systems & Infrastructure** — Distributed Systems, Kafka, ML Infrastructure (model deployment, evaluation)  
+    **Cloud & DevOps** — AWS, Microsoft Azure, Docker, Kubernetes, CI/CD  
+    **Tools & Practices** — Git, GitHub, Linux, Agile
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 # widget: features
@@ -55,23 +72,6 @@
 #   - name: Cloud & DevOps
 #     icon: cloud
 #     icon_pack: fas
-widget: blank
-headless: true
-weight: 30
-
-title: Skills
-subtitle:
-content:
-  text: |
-    **Languages** — Python, Java, C/C++, JavaScript, TypeScript  
-    **ML & AI** — Machine Learning, LLMs, RAG, Computer Vision  
-    **Frameworks & Libraries** — PyTorch, Scikit-learn, OpenCV  
-    **LLM Tooling** — LangChain, LangGraph, vLLM  
-    **Backend & APIs** — FastAPI, Flask, Node.js, REST APIs  
-    **Databases & Storage** — MySQL, PostgreSQL, OracleDB, Redis  
-    **Systems & Infrastructure** — Distributed Systems, Kafka, ML Infrastructure (model deployment, evaluation)  
-    **Cloud & DevOps** — AWS, Microsoft Azure, Docker, Kubernetes, CI/CD  
-    **Tools & Practices** — Git, GitHub, Linux, Agile
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
