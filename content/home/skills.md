@@ -8,33 +8,30 @@ title: Skills
 subtitle:
 
 feature:
-  - name: Languages
-    description: Python, Java, C/C++, JavaScript, TypeScript
+- name: Languages
+  description: Python, Java, JavaScript, TypeScript
 
-  - name: ML & AI
-    description: Machine Learning, LLMs, RAG, Computer Vision
+- name: ML & AI
+  description: Machine Learning, LLMs, RAG, Computer Vision
 
-  - name: Frameworks
-    description: PyTorch, Scikit-learn, OpenCV
+- name: Frameworks & Tools
+  description: PyTorch, Scikit-learn, OpenCV, LangChain, LangGraph, vLLM
 
-  - name: LLM Tooling
-    description: LangChain, LangGraph, vLLM
+- name: Backend & APIs
+  description: FastAPI, Flask, Node.js, REST APIs
 
-  - name: Backend & APIs
-    description: FastAPI, Flask, Node.js, REST APIs
+- name: Databases
+  description: MySQL, PostgreSQL, Redis
 
-  - name: Databases
-    description: MySQL, PostgreSQL, OracleDB, Redis
+- name: Systems
+  description: Distributed Systems, Kafka, ML Infrastructure
 
-  - name: Systems
-    description: Distributed Systems, Kafka, ML Infra
+- name: Cloud & DevOps
+  description: AWS, Azure, Docker, Kubernetes, CI/CD
 
-  - name: Cloud & DevOps
-    description: AWS, Azure, Docker, Kubernetes, CI/CD
-
-  - name: Tools
-    description: Git, GitHub, Linux, Agile
+- name: Tools
+  description: Git, GitHub, Linux
 
 design:
-  columns: '3'
+  columns: '4'
 ---
