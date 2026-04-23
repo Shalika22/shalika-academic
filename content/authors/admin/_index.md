@@ -14,11 +14,11 @@ role: Software Engineer | AI Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ex - Oracle, India
+  - name: Ex - Oracle
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Processing, Computer Vision, Machine Learning, Artificial Intelligence, and Multi-Modal Reasoning.
+bio: Former Software Engineer at Oracle, building scalable backend systems and AI-powered applications. Interested in LLMs, Computer Vision, Multimodal reasoning, diffusion models, distributed systems, and high-performance AI infrastructure.
 
 # Interests to show in About widget
 interests:
@@ -87,5 +87,5 @@ email: 'kshalika.work@gmail.com'
 highlight_name: true
 ---
 
-Hi! I’m Shalika Kumbham, an MS CS student at UNC Chapel Hill and former Software Development Engineer at Oracle. I build scalable backend systems and AI-powered applications, with experience spanning low-latency APIs, distributed systems, and LLM-based architectures. My work includes production systems handling millions of transactions as well as applied AI projects like RAG pipelines, LLM reasoning, and multi-agent LLM environments. I’m interested in building reliable, high-performance systems at the intersection of software engineering and AI.
+Hi! I’m Shalika Kumbham, an MS CS student at UNC Chapel Hill and former Software Development Engineer at Oracle. I build scalable backend systems and AI-powered applications, with experience spanning low-latency APIs, distributed systems, LLM architectures and Agentic AI systems . My work includes production systems handling millions of transactions as well as applied AI projects like RAG pipelines, LLM reasoning, and multi-agent LLM environments. I’m interested in building reliable, high-performance systems at the intersection of software engineering and AI.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
