@@ -9,7 +9,7 @@ date: '2020-06-01'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 ---
 • Created a web application as a part of the Microsoft virtual mentorship program - Engage 2020
