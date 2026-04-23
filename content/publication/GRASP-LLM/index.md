@@ -18,5 +18,6 @@ abstract: ''
 
 summary: ''
 
-tags: ['NLP']
+tags: ['NLP', 'LLM']
+featured: true
 ---
