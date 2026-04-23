@@ -1,10 +1,10 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: skills
+# widget: features
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section appears on the page.
 # weight: 30
