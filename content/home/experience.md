@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: oracle_logo_icon_168918
     location: Hyderabad, India
-    date_start: 'July 2022'
-    date_end: 'August 2024'
+    date_start: '2022-07-12'
+    date_end: '2024-08-16'
     description: |2-
       - Engineered features for financial worksheet optimization, improving performance and delivering 500 calculations across 300 columns under 30 ms
       - Led the development of a novel Peer Appreciation application, including designing database models, writing PL/SQL packages, and creating REST APIs to support new functionality
@@ -42,8 +42,8 @@ experience:
     company_url: ''
     company_logo: big_logo
     location: Bengaluru, India
-    date_start: 'June 2020'
-    date_end: 'August 2020'
+    date_start: '2020-06-01'
+    date_end: '2020-08-01'
     description: |2-
       - Built an end-to-end data pipeline for forgery detection
       - Achieved **75% accuracy** using hybrid (CNN + LSTM) model for forgery detection
