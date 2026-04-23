@@ -20,17 +20,11 @@ feature:
 - name: Backend & APIs
   description: FastAPI, Flask, Node.js, REST APIs
 
-- name: Databases
-  description: MySQL, PostgreSQL, Redis
-
-- name: Systems
-  description: Distributed Systems, Kafka, ML Infrastructure
+- name: Databases & Systems
+  description: MySQL, PostgreSQL, Redis, Kafka, Distributed Systems, ML Infra
 
 - name: Cloud & DevOps
-  description: AWS, Azure, Docker, Kubernetes, CI/CD
-
-- name: Tools
-  description: Git, GitHub, Linux
+  description: AWS, Azure, Docker, Kubernetes, CI/CD, Git, Linux
 
 design:
   columns: '4'
