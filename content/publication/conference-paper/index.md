@@ -8,6 +8,11 @@ authors:
   - admin
   - Abhijit Debnath
   - Krothapalli Sreenivasa Rao
+title: 'Guided Relational Analysis Improves Social Intelligence in LLMs – ACL 2026 (Under Review)'
+authors:
+  - admin
+  - Anvesh Rao Vijjini
+  - Snigdha Chaturvedi
 
 # Author notes (optional)
 # author_notes:
