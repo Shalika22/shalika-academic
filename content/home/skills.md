@@ -12,7 +12,7 @@ feature:
   description: Python, Java, JavaScript, TypeScript
 
 - name: ML & AI
-  description: Machine Learning, LLMs, RAG, Computer Vision
+  description: LLMs, RAG, Computer Vision, Machine Learning
 
 - name: Frameworks & Tools
   description: PyTorch, Scikit-learn, OpenCV, LangChain, LangGraph, vLLM
@@ -25,7 +25,4 @@ feature:
 
 - name: Cloud & DevOps
   description: AWS, Azure, Docker, Kubernetes, CI/CD, Git, Linux
-
-design:
-  columns: '4'
 ---
