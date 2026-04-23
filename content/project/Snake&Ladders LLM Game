@@ -1,0 +1,17 @@
+---
+title: "LLM Strategy Game (Snake & Ladders)"
+summary: "Multi-agent LLM environment for evaluating strategic reasoning"
+tags:
+  - LLM
+  - Reinforcement Learning
+date: 2025-03-01
+
+image:
+  caption: 
+  focal_point: "Smart"
+
+url_code: ""
+---
+
+- Built an adversarial agentic AI multi-agent env where LLMs strategically modified Snake & Ladder boards
+- Evaluated 5 SOTA LLMs; designed metrics for LLM gameplay evaluation, including failure rate, aggression ratio, action distribution, and strategic placement analysis
