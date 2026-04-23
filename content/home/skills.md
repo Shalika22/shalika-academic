@@ -72,7 +72,6 @@ content:
     **Systems & Infrastructure** — Distributed Systems, Kafka, ML Infrastructure (model deployment, evaluation)  
     **Cloud & DevOps** — AWS, Microsoft Azure, Docker, Kubernetes, CI/CD  
     **Tools & Practices** — Git, GitHub, Linux, Agile
-
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
