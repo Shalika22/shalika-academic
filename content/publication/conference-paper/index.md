@@ -11,20 +11,12 @@ authors:
 date: '2022-10-19T00:00:00Z'
 doi: ''
 
-title: 'Guided Relational Analysis Improves Social Intelligence in LLMs – ACL 2026 (Under Review)'
-authors:
-  - admin
-  - Anvesh Rao Vijjini
-  - Snigdha Chaturvedi
 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 #  - 'Equal contribution'
-date: '2026-10-19T00:00:00Z'
-doi: ''
-
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
 
@@ -43,6 +35,34 @@ abstract: ''
 summary: ''
 
 tags: ['NLP','Computer Vision']
+
+title: 'Guided Relational Analysis Improves Social Intelligence in LLMs – ACL 2026 (Under Review)'
+authors:
+  - admin
+  - Anvesh Rao Vijjini
+  - Snigdha Chaturvedi
+  - 
+date: '2026-10-19T00:00:00Z'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: ''
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['1']
+
+# Publication name and optional abbreviated publication name.
+publication: ACL Under Review
+publication_short: ACL Under Review
+
+abstract: ''
+
+summary: ''
+
+tags: ['NLP']
 
 # Display this page in the Featured widget?
 # featured: true
