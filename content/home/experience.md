@@ -27,18 +27,18 @@ experience:
     company_url: ''
     company_logo: oracle_logo_icon_168918
     location: Hyderabad, India
-    date_start: '2022-07-21'
-    date_end: ''
+    date_start: '2022-07-12'
+    date_end: '2024-08-16'
     description: Part of Human Capital Management Team, which works in developing applications to manage the finances of clients.
 
- # - title: Machine Learning Intern
- #   company: Felix Health Care
- #   company_url: ''
- #   company_logo: big_logo
- #   location: Bengaluru, India
- #   date_start: '2020-06-01'
- #   date_end: '2020-08-31'
- #   description: Worked on Forgery detection in Images using Machine Learning
+  - title: Machine Learning Intern
+    company: Felix Solutions AI
+    company_url: ''
+    company_logo: big_logo
+    location: Bengaluru, India
+    date_start: '2020-06-01'
+    date_end: '2020-08-31'
+    description: Worked on Forgery detection in Images using Machine Learning
 
 design:
   columns: '2'
