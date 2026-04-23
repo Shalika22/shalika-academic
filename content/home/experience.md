@@ -30,7 +30,7 @@ experience:
     date_start: '2022-07-12'
     date_end: '2024-08-16'
     description: |2-
-      • Engineered features for financial worksheet optimization, improving performance and delivering 500 calculations across 300 columns under 30 ms
+    • Engineered features for financial worksheet optimization, improving performance and delivering 500 calculations across 300 columns under 30 ms
     • Led the development of a novel Peer Appreciation application, including designing database models, writing PL/SQL packages, and creating REST APIs to support new functionality
     • Engineered UI pages and reduced page loading times by 50% through REST API optimization, significantly enhancing application performance
     • Led the entire ER for Generate and Publish Anniversary Awards, which involved writing a new PL/SQL package, modifying existing REST APIs, and working on VBCS report pages
